@@ -29,6 +29,8 @@ PlotXY_Badges <- function(df,league_code){
     liga <- "ITA_"}
   else if(league_code=="FRA"){
     liga <- "FRA_"}
+  else if(league_code=='ARG'){
+    liga <- "ARG_"}
   else{
     return(c("Por favor seleccione el nombre correcto de la liga/Please select the correct name of the ligue: ESP, ENG, GER, ITA, FRA"))
     }

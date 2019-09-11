@@ -63,7 +63,7 @@
 #'
 #' Listado de los equipos incluidos en la libreria
 #'
-#' @format A data frame with 98 rows and 3 variables:
+#' @format A data frame with 122 rows and 3 variables:
 #' \itemize{
 #'   \item Country: Country ID (character)
 #'   \item Team: Name (character)
